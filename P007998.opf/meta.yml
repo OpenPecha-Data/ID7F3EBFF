@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG535
   title: དྲན་པའི་ཟིན་ཐོ
-  volume: ''
+  volume:
+    c9187e7ddc5e4cb6802a677fda93f3e5:
+      image_group_id: I1KG544
+      title: Volume 1 of dran pa'i zin tho
+      volume_number: 1
+      total_pages: 110
   author: ''
+ebook_metadata:
+  title: དྲན་པའི་ཟིན་ཐོ
+  author: ''
+  sku: P007998
+  cover: cover.jpg
+  layers:
+  - pagination
