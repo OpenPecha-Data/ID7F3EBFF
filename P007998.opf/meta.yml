@@ -1,15 +1,16 @@
-id: opecha:P007998
+id: P007998
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG535
   title: དྲན་པའི་ཟིན་ཐོ
-  volume:
+  author: ''
+  volumes:
     c9187e7ddc5e4cb6802a677fda93f3e5:
       image_group_id: I1KG544
       title: Volume 1 of dran pa'i zin tho
       volume_number: 1
       total_pages: 110
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དྲན་པའི་ཟིན་ཐོ
   author: ''
